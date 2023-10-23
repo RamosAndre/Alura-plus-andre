@@ -151,12 +151,12 @@ body{
 }
 
 .container__botao:hover{
-    background-color: chartreuse;
+    background-color: #ad0a3e;
     color: beige;
 }
 
 .container__botao:active{
-    background-color: chartreuse;
+    background-color: #ad0a3e;
 }
 
 
